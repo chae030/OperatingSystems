@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/parkchaeyeon/Desktop/GitHub/os",
-      "program": "/Users/parkchaeyeon/Desktop/GitHub/os/build/Debug/outDebug"
+      "cwd": ".",
+      "program": "build/Debug/outDebug"
     }
   ]
 }
