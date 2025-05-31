@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/parkchaeyeon/Desktop/GitHub/Operating_Systems/cpu_scheduler_project/cpu_scheduler'
+relocations:     []
+...
